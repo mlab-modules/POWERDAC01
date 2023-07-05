@@ -1,0 +1,11 @@
+description: null
+github_branch: POWERDAC01A
+github_repo: POWERDAC01
+github_url: https://github.com/mlab-modules/POWERDAC01
+homepage: false
+images:
+- doc/img/POWERDAC01A_bottom_small.jpg
+- doc/img/POWERDAC01A_QRcode.png
+mark: 50
+tags: []
+title: POWERDAC01
